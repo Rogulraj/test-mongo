@@ -1,0 +1,19 @@
+POST http://localhost:3020/api/post 
+Content-Type: application/json
+
+{
+    "username": "Harish",
+    "password": "harish"
+}
+###
+
+GET http://localhost:3020/api/get
+###
+
+PUT http://localhost:3020/api/put
+Content-Type: application/json
+
+{
+    "username": "harsha",
+    "updateName": "Harsha"
+}

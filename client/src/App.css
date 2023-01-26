@@ -1,0 +1,8 @@
+.main{
+  min-height: 100vh;
+  background-image: linear-gradient( #3df0d8, #2caa8f);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
